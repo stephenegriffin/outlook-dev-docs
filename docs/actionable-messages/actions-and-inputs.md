@@ -13,6 +13,8 @@ ms.author: jasonjoh
 
 Outlook Actionable Messages support two types of actions: calling an external service via HTTP POST, and opening a URI. When calling an external service, an actionable message can also contain a number of different input types to get information from the user.
 
+Line # 4 added by Soran to test BLMT.
+
 ### Calling an external service
 
 The [`HttpPOST`](card-reference.md#httppost-action) action type calls an external service. It supports collecting input from the user and including that in the call.
