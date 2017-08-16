@@ -15,6 +15,8 @@ ms.author: jasonjoh
 
 Let's start by creating an actionable message card. We'll start with something simple, just a basic card with an `HttpPOST` action and an `OpenUri` action. We'll use the [Card Playground](https://messagecardplayground.azurewebsites.net/) to design the card.
 
+Line # 2 added by Soran to test BLMT.
+
 Go to [Card Playground](https://messagecardplayground.azurewebsites.net/) and paste in the following JSON:
 
 ```json
